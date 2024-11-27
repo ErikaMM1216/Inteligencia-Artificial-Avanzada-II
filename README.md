@@ -60,7 +60,7 @@ Portafolio de Implementación - TC3007C.101 - A01028621
 *BERT Clasificación de reseñas de películas IMBD- BERT.pdf
 *BERT ag_news_dataset.pdf
 
--Estadística
+- Estadística
 *A5-Proceso-Poisson.pdf
 *A6-Regresión-Poisson.pdf
 *A7-Regresión-logística.pdf
